@@ -1,3 +1,5 @@
 # Monthly Expense Tracker app using React
 
-App Link [App Link](https://expense-tracker-app-react-rishon.netlify.app/).
+Hosted Link [Click Me](https://expense-tracker-app-react-rishon.netlify.app/).
+
+# Tech stack used : React, JS, CSS 
